@@ -1,18 +1,9 @@
-h1{
-
-}
-
-.titleMe {
-
-    text-align: center;
-   
-  font-size: 65px;
-}
-
-body {
-
-    background-image: url("../assets/background2.jpeg");
-    background-position: center top;
+.PAGE {
+    background: url(../assets/Screen\ Shot\ 2022-11-08\ at\ 3.37.29\ PM.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-  
+    height: 110vh;
 }
