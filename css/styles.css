@@ -7,3 +7,24 @@
     background-size: cover;
     height: 110vh;
 }
+
+.center {
+  display: inline;
+  margin: auto;
+  padding: 5px;
+  
+
+
+}
+
+.centerNow {
+
+  display: inline;
+  margin: auto;
+  padding: 5px;
+}
+
+#container {
+
+  text-align: center;
+}
