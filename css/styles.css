@@ -12,5 +12,7 @@ h1{
 body {
 
     background-image: url("../assets/background2.jpeg");
+    background-position: center top;
+    background-size: cover;
   
 }
