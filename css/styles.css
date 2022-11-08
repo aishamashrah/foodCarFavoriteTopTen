@@ -1,4 +1,19 @@
+<<<<<<< HEAD
 h1{
 background-color: blueviolet;
 }
 
+=======
+.titleMe {
+
+    text-align: center;
+   
+  font-size: 65px;
+}
+
+body {
+
+    background-image: url("../assets/background2.jpeg");
+  
+}
+>>>>>>> 3c5a5ce6984e146b8e608729b7177288727cb1a7
