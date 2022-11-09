@@ -1,0 +1,118 @@
+/*AISHA */
+.PAGE {
+    background: url(../assets/Screen\ Shot\ 2022-11-08\ at\ 3.37.29\ PM.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+
+.centerPiece {
+    
+    /* display: flex; */
+ justify-content: flex-end;  
+ align-items: flex-start;
+
+}
+
+
+.centerNow {
+
+    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+   
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+    
+}
+
+#container {
+
+  text-align: center;
+}
+
+.titlepage1{
+    color: gold;
+    text-align: center;
+}
+h1{
+    color: rgb(4, 5, 4);
+    text-align: center;
+}
+.body{
+    background: url(../assets/Screen\ Shot\ 2022-11-08\ at\ 3.37.29\ PM.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
+}
+.BUTTON1{
+    background-color: rgb(190, 125, 211); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 10px 10px black;
+    font-size: 16px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 2px 2px 5px black;
+    bottom: auto;
+}
+   
+
+
+
+
+.indexBack {
+
+
+    /* background-image: url(../assets/background2.jpeg); */
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.TITLE1{
+    text-align: right;
+    color: brown;
+}
+
+img.animated-gif{
+    width: 120px;
+    height: auto;
+  }
+
+.nav-pills {
+
+    background-color: black;
+
+}
+
+
+.label1{
+    color: black;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start !important;
+    
+    position: bottom;
+
+}
