@@ -1,3 +1,4 @@
+/*AISHA */
 .PAGE {
     background: url(../assets/Screen\ Shot\ 2022-11-08\ at\ 3.37.29\ PM.png) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -24,9 +25,7 @@
 
 
 }
-h1{
-    text-align: center;
-}
+
 
 .centerNow {
 
@@ -47,5 +46,23 @@ h1{
 #container {
 
   text-align: center;
+}
+
+.titlepage1{
+    color: gold;
+    text-align: center;
+}
+h1{
+    color: rgb(4, 5, 4);
+    text-align: center;
+}
+.body{
+    background: url(../assets/Screen\ Shot\ 2022-11-08\ at\ 3.37.29\ PM.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 110vh;
 }
 
