@@ -9,17 +9,11 @@
     height: 110vh;
 }
 
-.center {
+.centerPiece {
     
-    color: white;
-    padding: 15px 32px;
-    text-align: right;
-    text-decoration: none;
-    display: inline-block;
-   
-    font-size: 16px;
-    font-family: 'Orbitron', sans-serif;
-    text-shadow: 2px 2px 5px black;
+    /* display: flex; */
+ justify-content: flex-end;  
+ align-items: flex-start;
 
 }
 
@@ -96,4 +90,14 @@ h1{
 .TITLE1{
     text-align: right;
     color: brown;
+}
+
+img.animated-gif{
+    width: 120px;
+    height: auto;
+  }
+
+.nav-pills {
+
+    background-color: black;
 }
