@@ -20,9 +20,6 @@
     font-size: 16px;
     font-family: 'Orbitron', sans-serif;
     text-shadow: 2px 2px 5px black;
-    
-  
-
 
 }
 
@@ -78,3 +75,16 @@ h1{
 
 
 }
+
+/* .spaceEven {
+
+    justify-content: space-evenly;
+    
+
+} */
+
+.sizeNow {
+
+
+    justify-content: flex-end;
+  }
