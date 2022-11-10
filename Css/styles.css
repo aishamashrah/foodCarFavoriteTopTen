@@ -15,8 +15,10 @@
  align-items: flex-start;
 
 }
-
-
+.food
+{
+    text-align: center;
+}
 .centerNow {
 
     
@@ -116,3 +118,30 @@ img.animated-gif{
     position: bottom;
 
 }
+.kabab{
+    background-color: rgb(249, 201, 149);
+    color: black;
+}
+.falaf{
+    color: black;
+    background-color: gray;
+}
+.suhi{
+color: black;
+background-color: rgb(108, 92, 92);
+}
+.bod1{
+    background: url(../assets2/pineapple-supply-co-Q7PclNhVRI0-unsplash.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    width: 100;
+}
+.hig{
+    height: 600px;
+    width: 900;
+}
+
