@@ -102,6 +102,7 @@ img.animated-gif{
 .nav-pills {
 
     background-color: black;
+  
 
 }
 
@@ -145,3 +146,6 @@ background-color: rgb(108, 92, 92);
     width: 900;
 }
 
+.TITLE1{
+    color: rgb(29, 86, 29);
+}
